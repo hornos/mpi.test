@@ -1,0 +1,3 @@
+Install shf3 and run by mpipy NP command, eg.:
+  mpipy 2 p2pcom.py
+
