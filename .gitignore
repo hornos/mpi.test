@@ -1,0 +1,9 @@
+.DS*
+*.old
+*.sqlite
+*.pyc
+_*
+scr/*
+pkg/*
+
+
