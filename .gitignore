@@ -1,3 +1,5 @@
+*.o
+*.so
 .DS*
 *.old
 *.sqlite
